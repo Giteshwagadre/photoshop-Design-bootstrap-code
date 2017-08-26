@@ -1,0 +1,30 @@
+.top-bar{
+	background-color:#f26522;
+	padding-top:3px;    
+}
+.my-menu{
+	
+	margin-top: 10px;
+}
+.heading{
+	text-align:center;
+	padding: 5px;
+	font-size: 35px;
+	font-weight: 800;
+	border-width:3px;
+	border-bottom-style:ridge;
+	border-color: #009999;
+
+}
+.well:hover{
+box-shadow: -1px 2px 18px #888888;
+}
+
+.footer{
+text-align: center;
+background-color: #666666;
+height:40px;
+padding-top: 8px;
+color: white;
+width:100%;
+}
